@@ -3,4 +3,6 @@ Distributed version control system
 
 Commit - make a change to a file, asks you to verify that you want to commit a file 
 
-I have edited this file in the side branch, updating 
+I have edited this file in the side branch, updating it
+
+I have also used 'pull requests' function to merge back into 'main' branch 
