@@ -6,3 +6,5 @@ Commit - make a change to a file, asks you to verify that you want to commit a f
 I have edited this file in the side branch, updating it
 
 I have also used 'pull requests' function to merge back into 'main' branch 
+
+I have added a line to this file.
