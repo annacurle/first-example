@@ -2,3 +2,5 @@ Contents of the file
 Distributed version control system 
 
 Commit - make a change to a file, asks you to verify that you want to commit a file 
+
+I have edited this file in the side branch, updating 
